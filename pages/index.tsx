@@ -20,7 +20,7 @@ export default function Home() {
       <Header />
       <div className="relative py-3 sm:max-w-xl sm:mx-auto">
         <a
-          href="/path/to/your/file.usdz"
+          href="https://drive.google.com/uc?export=download&id=1fGY0RECL79mAU3oSZMTQ46wgVdY21G_a"
           rel="ar"
           className="block w-full py-2 px-3 rounded bg-indigo-600 text-white text-center font-bold text-xl"
         >
