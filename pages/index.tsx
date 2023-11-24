@@ -20,11 +20,16 @@ export default function Home() {
       <Header />
       <div className="relative py-3 sm:max-w-xl sm:mx-auto">
         <a
-          href="https://drive.google.com/uc?export=download&id=1fGY0RECL79mAU3oSZMTQ46wgVdY21G_a"
+          href="https://drive.google.com/uc?export=download&id=1UFmel7j23XWfsKb0Ip3cNn89llVeM6MB"
           rel="ar"
-          className="block w-full py-2 px-3 rounded bg-indigo-600 text-white text-center font-bold text-xl"
+          id="iosLinkProduct4"
+          style={{display: 'none'}}
         >
-          Open in AR
+          <img 
+            src="https://drive.google.com/uc?export=view&id=1W2IPMdWZIbMdNu0sfjVcId6eH2yTFIhU" 
+            alt="Visa i AR" 
+            style={{width: '100px', height: '29px'}}
+          />
         </a>
       </div>
     </div>
